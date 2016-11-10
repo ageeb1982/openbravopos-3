@@ -13,3 +13,8 @@ hs_err_pid*
 
 # Log files
 *.log
+
+/nbproject/private/
+
+build/*
+

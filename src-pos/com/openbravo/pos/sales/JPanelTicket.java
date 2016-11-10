@@ -1735,7 +1735,7 @@ public abstract class JPanelTicket extends JPanel implements JPanelView, BeanFac
     private javax.swing.JPanel m_jPanContainer;
     private javax.swing.JPanel m_jPanEntries;
     private javax.swing.JPanel m_jPanTicket;
-//    private javax.swing.JPanel m_jPanTotals;
+    private javax.swing.JPanel m_jPanTotals;
     private javax.swing.JPanel m_jPanelBag;
     private javax.swing.JPanel m_jPanelCentral;
     private javax.swing.JPanel m_jPanelScripts;
